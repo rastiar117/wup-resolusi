@@ -1,6 +1,6 @@
 wup resolusi
 
-- javascript
-- ngaji
-- vlog
+- kolaborasi
+- belajar
+- gabut
 
